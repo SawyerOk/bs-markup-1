@@ -1,0 +1,9 @@
+#header-main {
+  h1 {
+    color: green;
+    font-size: 2em;
+    span {
+      color: $main-col;
+    }
+  }
+}

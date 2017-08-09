@@ -1,0 +1,36 @@
+.n-block {
+  span{
+    color: $main-col;
+  }
+  h2 {
+    font-size: 1.4em;
+    text-transform: uppercase;
+
+  }
+
+  .c-heading{
+    padding-top: 1em;
+    p {
+      font-size: 1.3em;
+    }
+    small {
+      color: $main-col;
+      float: right;
+    }
+    span.glyphicon {
+      cursor: pointer;
+    }
+    border-top: 2px solid $main-col;
+  }
+
+  .cont-aside{
+    h2 {
+      font-size: 1.1em;
+      text-align: center;
+    }
+    img {
+      margin-bottom: 2em;
+    }
+  }
+
+}
